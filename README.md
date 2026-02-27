@@ -53,3 +53,32 @@ gregs_list/
 │── index.html
 │── styles.css
 │── gregslist.jpg
+
+
+---
+
+## 🚀 Purpose
+
+This project was built to practice:
+
+- Layout alignment and spacing
+- UI component structuring
+- Search bar styling
+- Pagination design
+- Clean front-end presentation
+
+It reflects foundational front-end development skills and interface thinking.
+
+---
+
+## 📌 Author
+
+**Emlyn Davies-Cole**  
+Architectural Designer transitioning into Web Development  
+Focused on clean structure, visual clarity, and user-centered design.
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
