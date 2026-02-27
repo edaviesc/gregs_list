@@ -49,6 +49,8 @@ The design focuses on clarity, usability, and structured content layout.
 ---
 
 ## 📂 Project Structure
+
+```plaintext
 gregs_list/
 │── index.html
 │── styles.css
